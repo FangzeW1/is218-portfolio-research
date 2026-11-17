@@ -1,6 +1,6 @@
-# IS218-003 — Portfolio Review 1: Plan
+# Portfolio and Career Research — Personal Research Notebook
 
-## Research question
+This repository hosts my evolving portfolio and career research, with links to technical projects used as evidence across coursework. The public-facing site is not limited to a single course. Original dated research is preserved in the archive.\n\n## Research question
 What early-career opportunities connect web/software engineering with applied AI, and what portfolio evidence would make a candidate credible?
 
 ## Research site
