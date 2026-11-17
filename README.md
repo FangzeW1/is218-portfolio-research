@@ -4,7 +4,7 @@ This repository hosts my evolving portfolio and career research, with links to t
 What early-career opportunities connect web/software engineering with applied AI, and what portfolio evidence would make a candidate credible?
 
 ## Research site
-Published URL: https://fangzew1.github.io/is218-portfolio-research/
+Published URL: https://fangzew1.github.io/portfolio-research/
 
 ## Related individual research site
 AI/programming research: https://fangzew1.github.io/is218-creative-plan/research.html
